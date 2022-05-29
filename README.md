@@ -1,9 +1,9 @@
-![alt text](Screenshots/Screenshot_1.png "Первый скрин.")
+![Alt text](https://github.com/BigToni968/Right-on-targer/blob/main/Screenshots/Screenshots_1.png "Первый скрин.")
 
-![alt text](Screenshots/Screenshot_2.png "Второй скрин.")
+![Alt text](https://github.com/BigToni968/Right-on-targer/blob/main/Screenshots/Screenshots_2.png "Второй скрин.")
 
-![alt text](Screenshots/Screenshot_3.png "Третий скрин.")
+![Alt text](https://github.com/BigToni968/Right-on-targer/blob/main/Screenshots/Screenshots_3.png "Третий скрин.")
 
-![alt text](Screenshots/Screenshot_4.png "Четвёртый скрин.")
+![Alt text](https://github.com/BigToni968/Right-on-targer/blob/main/Screenshots/Screenshots_4.png "Четвёртый скрин.")
 
-![alt text](Screenshots/Screenshot_5.png "Пятый скрин.")
+![Alt text](https://github.com/BigToni968/Right-on-targer/blob/main/Screenshots/Screenshots_5.png "Пятый скрин.")
